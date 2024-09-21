@@ -59,7 +59,3 @@ Contributions, issues, and feature requests are welcome! Feel free to submit a p
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This version reflects the correct folder name (`img/`). You can now add this `README.md` to your project folder on GitHub. Let me know if you'd like assistance with that!
